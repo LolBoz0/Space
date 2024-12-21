@@ -1,4 +1,4 @@
-FROM node:v23.5.0
+FROM node:v22.9.0
 ENV NODE_ENV=production
 ENV PORT=3000
 WORKDIR /usr/src/app
